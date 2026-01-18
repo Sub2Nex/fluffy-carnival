@@ -1,0 +1,12 @@
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "description": "A useful utility library for Roblox.",
+  "license": "MIT",
+  "authors": ["Nx_ev"],
+  "keywords": ["utility", "roblox", "luau"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sub2Nex/fluffy-carnival"
+  }
+}
